@@ -1,0 +1,8 @@
+*.db
+ai_memory.json
+query_result.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+node_modules/
